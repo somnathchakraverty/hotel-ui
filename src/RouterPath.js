@@ -6,7 +6,7 @@ const RouterPath = () => {
     return (
         <Router>
             <Routes>
-            <Route path="/" exact element={<Login />}></Route>
+                <Route path="/" exact element={<Login />}></Route>
                 <Route path="/Login" exact element={<Login />}></Route>
             </Routes>
         </Router>

@@ -1,4 +1,4 @@
-import RouterPath from "./RoutePath";
+import RouterPath from "./RouterPath";
 
 function App() {
   return (
